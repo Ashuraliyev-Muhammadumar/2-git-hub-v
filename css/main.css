@@ -1,0 +1,211 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+
+}
+
+.main{
+    width: 1440px;
+    height: 90px;
+    background-color: #fff;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.vector{
+    width: 75px;
+    height: 22px;
+    margin: 34px 0px 34px 45px;
+
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+   
+}
+
+li{
+    margin-left: -50px;
+    margin-right: 100px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    color: #214E41;
+}
+
+.request{
+    background: #43806C;
+    border-radius: 6px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin-top: 0px;
+    padding: 10px 25px;
+
+}
+
+.LOGIN{
+    margin-left: -75px;
+    padding: 10px 14px;
+    border: none;
+    color:#214E41;
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 20px;
+    outline: none;
+}
+
+.LANGUAGE{
+    padding: 10px 14px;
+    border: none;
+    color:#214E41;
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 20px;
+    outline: none;
+}
+
+.hero{
+    width: 1440PX;
+    height: 720px;
+    background-color: #fff;
+    margin:auto;
+    margin-top: 50px;
+    display: flex;
+    
+    
+}
+
+.work{
+    width: 1440px;
+    height: 720px;
+    
+}
+
+.word{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 46px;
+    color: #214E41;
+    position: absolute; 
+    margin-top: 161px;  
+    margin-left: 120px; 
+    
+}
+
+p{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #214E41;
+    margin-top: 40px;
+
+}
+
+button{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    color: #222222;
+    position: absolute;
+    width: 280px;
+    height: 60px;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 16px;
+    background: #FFFFFF;
+    border-radius: 6px 0px 0px 6px;
+    border: none;
+
+}
+
+.find-out{
+    width: 123px;
+    height: 60px;
+    margin-top: 519px;
+    margin-left: 439px;
+    height: 60px;
+    left: 0%;
+    right: 0%;
+    top: 0px;
+    background: #43806C;
+    border-radius: 0px 6px 6px 0px;
+    border: none;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 20px;
+    color: #FFFFFF;
+
+}
+
+.find-out:hover{
+    cursor: pointer;
+    background-color: #214E41;
+}
+
+.find-out:focus{
+    box-shadow: 0px 0px 0px 2px #1e453a;
+}
+
+.container-1{
+    width: 1200px;
+    height: 171px;
+    background-color: #fff;
+    margin-top: -85.5px;
+    margin-left: 160px;
+    position: absolute;
+    display: flex;
+    justify-self: center;
+    align-items: center; 
+} 
+
+.imgs{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+}
+
+strong{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #214E41;
+}
+
+span{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #214E41;
+}
+
+/* ustoz shu yerigaca qila oldim oxiriga yetqazib quyaman */
+
+
+
+
+
+
